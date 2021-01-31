@@ -12,5 +12,4 @@
 ![One.png](https://github-readme-stats.vercel.app/api?username=LeoNidioJose&theme=onedark)
 
 ![Two.png](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNidioJose&hide=html&layout=compact&theme=onedark)
-
-# Bora codar?
+..... Only Code!
