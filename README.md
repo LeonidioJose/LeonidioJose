@@ -8,7 +8,7 @@ Hoje em dia eu trabalho em algumas linguagens de programação: Typescript, Java
 
 # Projetos
 <hr>
-👾 Script
+👾 Script<br>
 >Um bot para discord, feito com o objetivo de ajudar servidores. Conta com diversas categorias, entre elas temos: moderação, música, entretenimento, economia e utilidades. Saiba mais no site oficial. Adicione ele em seu servidor clicando aqui.
 
 # Stats
