@@ -1,12 +1,15 @@
-# Opa !
+<img src="https://github.com/joaorceschini/joaorceschini/raw/master/coding.svg" style="float: right;" width=250px>
 
-👋 Eu sou Leonidio José, atualmente um desenvolvedor ultimamente focado em NodeJS, a minha idade é ...
+# Opa! Seja bem vindo ao meu perfil.
+<hr>
+Desde do inicio, eu achava programação dificil, porém eu comecei a programar no Roblox Studio.
+Fiquei mais ou menos 1.5 anos na programação! Porém ainda me considero junior.
+Hoje em dia eu trabalho em algumas linguagens de programação: Typescript, Javascript, Lua, HTML (Básico) e CSS (Básico).
 
-💻 Linguagens: **Typescript**,**Lua**,**Javascript**
-
-♨️ Tecnologias: **Git**, **Node.js**, **Roblox Studio**
-
-🎉 [Nova Development](https://discord.com/invite/Au7DuE6cgV)
+# Projetos
+<hr>
+👾 Script
+>Um bot para discord, feito com o objetivo de ajudar servidores. Conta com diversas categorias, entre elas temos: moderação, música, entretenimento, economia e utilidades. Saiba mais no site oficial. Adicione ele em seu servidor clicando aqui.
 
 # Stats
 ![One.png](https://github-readme-stats.vercel.app/api?username=LeoNidioJose&theme=onedark)
