@@ -13,6 +13,7 @@ Hoje em dia eu trabalho em algumas linguagens de programação: <strong>Typescri
 <blockquote> Saiba mais no <a href="https://script-bot.vercel.app/">site oficial</a>.</blockquote>
 <blockquote> Adicione ele em seu servidor clicando <a href="https://discord.com/oauth2/authorize?=&client_id=762764583793459200&scope=bot&permissions=8">aqui</a>.<br></blockquote>
 <strong>OBS: Eu não sou o dono! O dono é <a href="https://github.com/joaorceschini">joaorceschini</a></strong>
+<br>
 # Stats
 ![One.png](https://github-readme-stats.vercel.app/api?username=LeoNidioJose&theme=onedark)
 
