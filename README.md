@@ -1,4 +1,4 @@
-<img src="https://github.com/joaorceschini/joaorceschini/raw/master/coding.svg" style="float: right;" width=250px>
+<img src="https://github.com/joaorceschini/joaorceschini/raw/master/coding.svg" style="float: right;" width=250px align="right">
 
 # Opa! Seja bem vindo ao meu perfil.
 <hr>
