@@ -18,6 +18,6 @@
   <h1>Stats<h1> 
 </div>
 
-![One.png](https://github-readme-stats.vercel.app/api?username=LeoNidioJose&theme=onedark)
+<img src="https://github-readme-stats.vercel.app/api?username=LeoNidioJose&theme=onedark" style="display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNidioJose&hide=html&layout=compact&theme=onedark" style="display: inline-block;">
 
-![Two.png](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNidioJose&hide=html&layout=compact&theme=onedark)
