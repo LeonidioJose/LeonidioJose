@@ -2,9 +2,9 @@
 
 # Opa! Seja bem vindo ao meu perfil.
 <hr>
-Desde do inicio, eu achava programação dificil, porém eu comecei a programar no **Roblox Studio**.
-Fiquei mais ou menos 1.5 anos na programação! Porém ainda me considero **junior.**
-Hoje em dia eu trabalho em algumas linguagens de programação: **Typescript, Javascript, Lua, HTML (Básico) e CSS (Básico).**
+Desde do inicio, eu achava programação dificil, porém eu comecei a programar no <strong>Roblox Studio<strong>.
+Fiquei mais ou menos 1.5 anos na programação! Porém ainda me considero <strong>junior</strong>
+Hoje em dia eu trabalho em algumas linguagens de programação: <strong>Typescript, Javascript, Lua, HTML (Básico) e CSS (Básico)</strong>.
 
 # Projetos
 <hr>
