@@ -8,7 +8,6 @@
   Hoje em dia eu trabalho em algumas linguagens de programação: <strong>Typescript, Javascript, Lua, HTML (Básico) e CSS (Básico)</strong>.
 
   <h1>Projetos</h1>
-
   <h3>👾 Script</h3><br>
   <blockquote style="display: inline;">Um bot para discord, feito com o objetivo de ajudar servidores. Conta com diversas categorias, entre elas temos: <strong>moderação</strong>, <strong>música</strong>, <strong>entretenimento</strong>, <strong>economia</strong> e <strong>utilidades</strong>.</blockquote>
   <blockquote style="display: inline;"> Saiba mais no <a href="https://script-bot.vercel.app/">site oficial</a>.</blockquote>
