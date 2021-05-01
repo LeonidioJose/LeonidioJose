@@ -9,7 +9,7 @@
 
   <h1>Projetos</h1>
 
-  ###👾 Script<br>
+  <h3>👾 Script</h3><br>
   <blockquote>Um bot para discord, feito com o objetivo de ajudar servidores. Conta com diversas categorias, entre elas temos: `moderação`, `música`, `entretenimento`, `economia` e `utilidades`.</blockquote>
   <blockquote> Saiba mais no <a href="https://script-bot.vercel.app/">site oficial</a>.</blockquote>
   <blockquote> Adicione ele em seu servidor clicando <a href="https://discord.com/oauth2/authorize?=&client_id=762764583793459200&scope=bot&permissions=8">aqui</a>.<br></blockquote>
