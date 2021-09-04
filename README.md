@@ -4,16 +4,12 @@
   <h1>Opa! Seja bem vindo ao meu perfil.</h1>
 
   Desde do inicio, eu achava programação dificil, porém eu comecei a programar no <strong>Roblox Studio</strong>.
-  Fiquei mais ou menos 1.5 anos na programação! Porém ainda me considero <strong>junior</strong>
+  Fiquei mais ou menos 2 anos na programação! Porém ainda me considero <strong>junior</strong>
   Hoje em dia eu trabalho em algumas linguagens de programação: <strong>Typescript, Javascript, Lua, HTML (Básico) e CSS (Básico)</strong>.
 
   <h1>Projetos</h1>
-  <h3>👾 Script</h3><br>
-  <blockquote style="display: inline;">Um bot para discord, feito com o objetivo de ajudar servidores. Conta com diversas categorias, entre elas temos: <strong>moderação</strong>, <strong>música</strong>, <strong>entretenimento</strong>, <strong>economia</strong> e <strong>utilidades</strong>.</blockquote>
-  <blockquote style="display: inline;"> Saiba mais no <a href="https://script-bot.vercel.app/">site oficial</a>.</blockquote>
-  <blockquote style="display: inline;"> Adicione ele em seu servidor clicando <a href="https://discord.com/oauth2/authorize?=&client_id=762764583793459200&scope=bot&permissions=8">aqui</a>.<br></blockquote>
-  <strong>OBS: Eu não sou o dono! O dono é <a href="https://github.com/joaorceschini">joaorceschini</a></strong>
-  <br>
+   <h3>Slash!</h3><br>
+   <blockquote>Um simples jogo genérico em desenvolvimento de lutas com espadas. </blockquote>
   <h1>Stats<h1> 
 </div>
 
