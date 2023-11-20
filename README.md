@@ -1,22 +1,19 @@
-<div style="clear: both;">
-   <img src="https://github.com/joaorceschini/joaorceschini/raw/master/coding.svg" width=250px align="right">
+<h1 align="center">Hi 👋, I'm Leo</h1>
+<h3 align="center">A roblox developer from Brazil</h3>
 
-  <h1>Opa! Seja bem vindo ao meu perfil.</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonidiojose" alt="leonidiojose" /></a> </p>
 
-  Desde do inicio, eu achava programação dificil, porém eu comecei a programar no <strong>Roblox Studio</strong>.
-  Fiquei mais ou menos 2 anos na programação! Porém ainda me considero <strong>Scripter Médio.</strong>
-  Hoje em dia eu trabalho em algumas linguagens de programação: <strong>Typescript, Javascript e  Luau</strong>.
+- 🔭 I’m currently working on **Dangerous Sky**
 
-  <h1>Projetos</h1>
-   <!--<h3>Slash!</h3><br>
-   <blockquote>Um simples jogo genérico em desenvolvimento de lutas com espadas. </blockquote>
-  <h1>Stats<h1> -->
-   <h2>Personal Framework</h2)<br>
-   <blockquote> Um framework para eu utilizar para facilitar o desenvolvimento de jogos </blockquote>
-   <br>
-   <h1>Stats<h1>
-</div>
+- 💬 Ask me about **roblox lua**
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeoNidioJose&theme=onedark" style="display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNidioJose&hide=html&layout=compact&theme=onedark" style="display: inline-block;">
+- 📫 How to reach me **Discord: leo.7880**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/coldyleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coldyleo" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonidiojose&show_icons=true&locale=en&layout=compact" alt="leonidiojose" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonidiojose&show_icons=true&locale=en" alt="leonidiojose" /></p>
